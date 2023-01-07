@@ -1,0 +1,12 @@
+{
+  "name": "growsketch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx http-server www"
+  },
+  "dependencies": {
+    "oimo": "^1.0.9"
+  }
+}
